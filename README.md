@@ -8,7 +8,7 @@
 - HTML to GUI, link:
 
 ####  Steps:
-1. Please upload pictures into the Input_Data folder.
+1. Please upload pictures into the **Input_Data** folder.
 2. Once all files successfully uploaded, go to GUI and click any of the button to start the classification model.
 3. Inside MIDS, there will be folder: **Output_Data** created once the model starts.
 4. Check results inside the **Output_Data**.
