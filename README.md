@@ -4,8 +4,8 @@
 
 **To run the final product, please open simultaneously the following items:**
 
-1. Dropbox MIDS/Input_Data, log in here: https://www.dropbox.com/home/MIDS 
-2. HTML to GUI, link:
+- Dropbox MIDS/Input_Data, log in here: https://www.dropbox.com/home/MIDS 
+- HTML to GUI, link:
 
 ####  Steps:
 1. Please upload pictures into the Input_Data folder.
